@@ -1,0 +1,11 @@
+/**
+ * @mainpage notitle
+ *
+ * @date 29 de Agosto del 2024
+ *
+ * @author Marcos Gomez Villafañe
+ * @author Hernan Leandro Bailo
+ *
+ *  Solution of TP 2.
+ *  Transfer the gas detector state and alarm led state over UART.
+ */
